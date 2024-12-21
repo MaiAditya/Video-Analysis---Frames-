@@ -51,6 +51,6 @@ b) Scene Change Detection
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/video-analysis-assignment.git
+git clone https://github.com/MaiAditya/Video-Analysis---Frames-.git
 cd video-analysis-assignment
 ```
